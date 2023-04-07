@@ -1,0 +1,13 @@
+body{
+    background-color: coral;
+}
+
+td{
+    color: darkslategray;
+}
+h3{
+    color: black;
+    font-size: medium;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
